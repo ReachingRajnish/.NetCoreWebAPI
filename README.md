@@ -7,3 +7,8 @@ Adding book (Architecting Modern Web Applications with ASP.NET Core and Azure) w
 Note: If you need to change the default route, you need to change the route in Solution=>Project=>Properties=>launchSettings.json 
 
 Swagger Url : http://localhost:<random_port>/swagger
+
+Deployed API on Azure https://mycorewebapi.azurewebsites.net/swagger/
+
+Below is the structure of directory
+https://mycorewebapi.scm.azurewebsites.net/DebugConsole
