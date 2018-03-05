@@ -12,3 +12,4 @@ Deployed API on Azure https://mycorewebapi.azurewebsites.net/swagger/
 
 Below is the structure of directory
 https://mycorewebapi.scm.azurewebsites.net/DebugConsole
+Irfan joined .NetCoreWebAPI project on 5th march 2018.
